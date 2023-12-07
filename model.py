@@ -4,10 +4,11 @@ from data import Data
 from functools import partial
 
 from manager import get_manager_and_routing_model
+from solution_reader import get_output_txt
 from solver import get_solution
 
 
-def main(data_class: Data):
+def main(data_class: Data, outfile_file_path: str = "output.txt"):
     manager, routing = get_manager_and_routing_model(data_class)
 
     print("Routing model created successfully!")
@@ -167,7 +168,7 @@ def main(data_class: Data):
         )
         routing.AddVariableMinimizedByFinalizer(time_dimension.CumulVar(routing.End(i)))
     # [END depot_start_end_times]
-    print("Time Window constraints applied successfully!")
+    print("Soft Time Window constraints applied successfully!")
 
     # Get solution
     start_time = time.time()
@@ -175,4 +176,10 @@ def main(data_class: Data):
     time_taken = time.time() - start_time
     print(f"Solution found in {time_taken} seconds !!")
 
-    return manager, routing, solution
+    output_txt = get_output_txt(manager, routing, solution, data_class)
+
+    # Write the string to the file
+    with open(outfile_file_path, "w") as file:
+        file.write(output_txt)
+
+    return manager, routing, solution, output_txt
