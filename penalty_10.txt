@@ -1,0 +1,246 @@
+Objective Cost: $690058
+Route for vehicle 0:
+201 Time(0,0) -> 72 Time(480,480) -> 21 Time(625,625) -> 121 Time(1072,1072) -> 6 Time(1128,1128) -> 172 Time(1292,1292) -> 20 Time(1506,1506) -> 106 Time(2202,2202) -> 120 Time(2375,2375) -> 0 Time(2375,2375)
+Time of the route: 2375 seconds
+Cost of the route: $8953
+Distance of the route: 8953
+Delay of the route: 0
+Route for vehicle 1:
+202 Time(0,0) -> 14 Time(360,1009) -> 59 Time(1200,1200) -> 159 Time(2423,2423) -> 114 Time(2523,2523) -> 0 Time(2523,2523)
+Time of the route: 2523 seconds
+Cost of the route: $8000
+Distance of the route: 6540
+Delay of the route: 146
+Route for vehicle 2:
+203 Time(0,0) -> 67 Time(420,420) -> 167 Time(1380,1380) -> 54 Time(1736,1736) -> 154 Time(2636,2636) -> 0 Time(2636,2636)
+Time of the route: 2636 seconds
+Cost of the route: $12565
+Distance of the route: 10205
+Delay of the route: 236
+Route for vehicle 3:
+204 Time(0,0) -> 43 Time(420,468) -> 47 Time(1200,1200) -> 143 Time(2124,2124) -> 147 Time(2557,2557) -> 0 Time(2557,2557)
+Time of the route: 2557 seconds
+Cost of the route: $10913
+Distance of the route: 9343
+Delay of the route: 157
+Route for vehicle 4:
+205 Time(0,0) -> 89 Time(1080,1080) -> 27 Time(1308,1308) -> 127 Time(2146,2146) -> 189 Time(2404,2404) -> 0 Time(2404,2404)
+Time of the route: 2404 seconds
+Cost of the route: $6457
+Distance of the route: 6417
+Delay of the route: 4
+Route for vehicle 5:
+206 Time(0,0) -> 100 Time(646,646) -> 91 Time(902,902) -> 200 Time(1598,1598) -> 191 Time(1879,1879) -> 0 Time(1879,1879)
+Time of the route: 1879 seconds
+Cost of the route: $7832
+Distance of the route: 7832
+Delay of the route: 0
+Route for vehicle 6:
+207 Time(0,0) -> 68 Time(480,526) -> 25 Time(1200,1200) -> 125 Time(1620,1620) -> 168 Time(2297,2297) -> 0 Time(2297,2297)
+Time of the route: 2297 seconds
+Cost of the route: $8277
+Distance of the route: 8277
+Delay of the route: 0
+Route for vehicle 7:
+208 Time(0,0) -> 64 Time(600,600) -> 55 Time(1266,1266) -> 155 Time(2154,2154) -> 164 Time(2647,2647) -> 0 Time(2647,2647)
+Time of the route: 2647 seconds
+Cost of the route: $12379
+Distance of the route: 9909
+Delay of the route: 247
+Route for vehicle 8:
+209 Time(0,0) -> 81 Time(780,780) -> 181 Time(2112,2112) -> 0 Time(2112,2112)
+Time of the route: 2112 seconds
+Cost of the route: $6781
+Distance of the route: 6781
+Delay of the route: 0
+Route for vehicle 9:
+210 Time(0,0) -> 40 Time(360,635) -> 140 Time(772,1047) -> 23 Time(1140,1140) -> 123 Time(2349,2349) -> 0 Time(2349,2349)
+Time of the route: 2349 seconds
+Cost of the route: $7966
+Distance of the route: 7966
+Delay of the route: 0
+Route for vehicle 10:
+211 Time(0,0) -> 37 Time(720,720) -> 137 Time(1064,1064) -> 39 Time(1337,1337) -> 139 Time(2051,2051) -> 63 Time(2155,2155) -> 163 Time(2242,2242) -> 0 Time(2242,2242)
+Time of the route: 2242 seconds
+Cost of the route: $7305
+Distance of the route: 7305
+Delay of the route: 0
+Route for vehicle 11:
+212 Time(0,0) -> 75 Time(720,720) -> 175 Time(1732,1732) -> 35 Time(1836,1836) -> 135 Time(3269,3269) -> 0 Time(3269,3269)
+Time of the route: 3269 seconds
+Cost of the route: $21394
+Distance of the route: 12704
+Delay of the route: 869
+Route for vehicle 12:
+213 Time(0,0) -> 32 Time(780,780) -> 132 Time(2360,2360) -> 0 Time(2360,2360)
+Time of the route: 2360 seconds
+Cost of the route: $6941
+Distance of the route: 6941
+Delay of the route: 0
+Route for vehicle 13:
+214 Time(0,0) -> 36 Time(1020,1020) -> 136 Time(2246,2246) -> 0 Time(2246,2246)
+Time of the route: 2246 seconds
+Cost of the route: $5796
+Distance of the route: 5796
+Delay of the route: 0
+Route for vehicle 14:
+215 Time(0,0) -> 74 Time(480,480) -> 174 Time(1149,1149) -> 57 Time(1471,1471) -> 157 Time(2683,2683) -> 0 Time(2683,2683)
+Time of the route: 2683 seconds
+Cost of the route: $12636
+Distance of the route: 9806
+Delay of the route: 283
+Route for vehicle 15:
+216 Time(0,0) -> 44 Time(960,960) -> 94 Time(1169,1169) -> 144 Time(1579,1579) -> 194 Time(2338,2338) -> 0 Time(2338,2338)
+Time of the route: 2338 seconds
+Cost of the route: $6164
+Distance of the route: 6164
+Delay of the route: 0
+Route for vehicle 16:
+217 Time(0,0) -> 73 Time(420,420) -> 173 Time(1228,1228) -> 22 Time(1646,1646) -> 122 Time(2750,2750) -> 0 Time(2750,2750)
+Time of the route: 2750 seconds
+Cost of the route: $14188
+Distance of the route: 10688
+Delay of the route: 350
+Route for vehicle 17:
+218 Time(0,0) -> 80 Time(720,720) -> 28 Time(1593,1593) -> 42 Time(1930,1930) -> 180 Time(2076,2076) -> 142 Time(2163,2163) -> 128 Time(2463,2463) -> 0 Time(2463,2463)
+Time of the route: 2463 seconds
+Cost of the route: $8656
+Distance of the route: 8026
+Delay of the route: 63
+Route for vehicle 18:
+219 Time(0,0) -> 7 Time(1020,1020) -> 107 Time(2447,2447) -> 0 Time(2447,2447)
+Time of the route: 2447 seconds
+Cost of the route: $7143
+Distance of the route: 6673
+Delay of the route: 47
+Route for vehicle 19:
+220 Time(0,0) -> 46 Time(360,360) -> 146 Time(871,871) -> 1 Time(1186,1186) -> 101 Time(1666,1666) -> 0 Time(1666,1666)
+Time of the route: 1666 seconds
+Cost of the route: $6497
+Distance of the route: 6497
+Delay of the route: 0
+Route for vehicle 20:
+221 Time(0,0) -> 88 Time(600,600) -> 62 Time(886,886) -> 162 Time(1204,1204) -> 58 Time(1402,1402) -> 188 Time(1487,1487) -> 61 Time(1831,1831) -> 158 Time(2164,2164) -> 161 Time(2280,2280) -> 0 Time(2280,2280)
+Time of the route: 2280 seconds
+Cost of the route: $49242
+Distance of the route: 16414
+Delay of the route: 0
+Route for vehicle 21:
+222 Time(0,0) -> 0 Time(0,0)
+Time of the route: 0 seconds
+Cost of the route: $0
+Distance of the route: 0
+Delay of the route: 0
+Route for vehicle 22:
+223 Time(0,0) -> 95 Time(960,960) -> 18 Time(1116,1116) -> 66 Time(1348,1348) -> 195 Time(1867,1867) -> 118 Time(2023,2023) -> 166 Time(2146,2146) -> 0 Time(2146,2146)
+Time of the route: 2146 seconds
+Cost of the route: $30612
+Distance of the route: 10204
+Delay of the route: 0
+Route for vehicle 23:
+224 Time(0,0) -> 0 Time(0,0)
+Time of the route: 0 seconds
+Cost of the route: $0
+Distance of the route: 0
+Delay of the route: 0
+Route for vehicle 24:
+225 Time(0,0) -> 0 Time(0,0)
+Time of the route: 0 seconds
+Cost of the route: $0
+Distance of the route: 0
+Delay of the route: 0
+Route for vehicle 25:
+226 Time(0,0) -> 83 Time(720,749) -> 41 Time(859,888) -> 183 Time(1038,1067) -> 77 Time(1076,1105) -> 96 Time(1140,1140) -> 141 Time(1360,1360) -> 196 Time(1515,1515) -> 76 Time(1555,1555) -> 177 Time(1799,1799) -> 70 Time(1878,1878) -> 170 Time(2224,2224) -> 53 Time(2341,2341) -> 153 Time(2401,2401) -> 176 Time(2577,2577) -> 0 Time(2577,2577)
+Time of the route: 2577 seconds
+Cost of the route: $48178
+Distance of the route: 15466
+Delay of the route: 178
+Route for vehicle 26:
+227 Time(0,0) -> 5 Time(360,603) -> 105 Time(461,704) -> 60 Time(505,748) -> 8 Time(840,840) -> 108 Time(889,889) -> 48 Time(998,998) -> 160 Time(1187,1187) -> 52 Time(1328,1328) -> 152 Time(2065,2065) -> 148 Time(2300,2300) -> 0 Time(2300,2300)
+Time of the route: 2300 seconds
+Cost of the route: $44988
+Distance of the route: 14996
+Delay of the route: 0
+Route for vehicle 27:
+228 Time(0,0) -> 9 Time(480,480) -> 109 Time(721,721) -> 0 Time(721,721)
+Time of the route: 721 seconds
+Cost of the route: $6762
+Distance of the route: 2254
+Delay of the route: 0
+Route for vehicle 28:
+229 Time(0,0) -> 84 Time(780,780) -> 31 Time(1056,1056) -> 12 Time(1131,1131) -> 184 Time(1317,1317) -> 112 Time(1371,1371) -> 71 Time(1567,1567) -> 26 Time(1805,1805) -> 131 Time(2120,2120) -> 171 Time(2357,2357) -> 126 Time(2711,2711) -> 0 Time(2711,2711)
+Time of the route: 2711 seconds
+Cost of the route: $53831
+Distance of the route: 16907
+Delay of the route: 311
+Route for vehicle 29:
+230 Time(0,0) -> 49 Time(1140,1140) -> 15 Time(1420,1420) -> 149 Time(1581,1581) -> 29 Time(1683,1683) -> 30 Time(1864,1864) -> 115 Time(2187,2187) -> 129 Time(2251,2251) -> 130 Time(2305,2305) -> 0 Time(2305,2305)
+Time of the route: 2305 seconds
+Cost of the route: $33993
+Distance of the route: 11331
+Delay of the route: 0
+Route for vehicle 30:
+231 Time(0,0) -> 0 Time(0,0)
+Time of the route: 0 seconds
+Cost of the route: $0
+Distance of the route: 0
+Delay of the route: 0
+Route for vehicle 31:
+232 Time(0,0) -> 92 Time(1140,1140) -> 192 Time(1209,1209) -> 0 Time(1209,1209)
+Time of the route: 1209 seconds
+Cost of the route: $3693
+Distance of the route: 1231
+Delay of the route: 0
+Route for vehicle 32:
+233 Time(0,0) -> 85 Time(600,870) -> 11 Time(900,900) -> 185 Time(932,932) -> 82 Time(1243,1243) -> 111 Time(1360,1360) -> 65 Time(1679,1679) -> 165 Time(1932,1932) -> 19 Time(1980,1980) -> 182 Time(2155,2155) -> 119 Time(2430,2430) -> 0 Time(2430,2430)
+Time of the route: 2430 seconds
+Cost of the route: $40260
+Distance of the route: 13320
+Delay of the route: 30
+Route for vehicle 33:
+234 Time(0,0) -> 0 Time(0,0)
+Time of the route: 0 seconds
+Cost of the route: $0
+Distance of the route: 0
+Delay of the route: 0
+Route for vehicle 34:
+235 Time(0,0) -> 99 Time(480,525) -> 34 Time(720,720) -> 199 Time(808,808) -> 3 Time(905,905) -> 90 Time(1191,1191) -> 134 Time(1402,1402) -> 190 Time(1681,1681) -> 103 Time(1689,1689) -> 2 Time(1698,1698) -> 45 Time(1865,1865) -> 102 Time(1893,1893) -> 98 Time(2146,2146) -> 145 Time(2394,2394) -> 198 Time(2577,2577) -> 0 Time(2577,2577)
+Time of the route: 2577 seconds
+Cost of the route: $54453
+Distance of the route: 17561
+Delay of the route: 177
+Route for vehicle 35:
+236 Time(0,0) -> 93 Time(1140,1140) -> 4 Time(1441,1441) -> 104 Time(1761,1761) -> 13 Time(1843,1843) -> 193 Time(2169,2169) -> 113 Time(2463,2463) -> 0 Time(2463,2463)
+Time of the route: 2463 seconds
+Cost of the route: $35385
+Distance of the route: 11585
+Delay of the route: 63
+Route for vehicle 36:
+237 Time(0,0) -> 97 Time(780,836) -> 56 Time(824,880) -> 197 Time(864,920) -> 17 Time(1020,1020) -> 156 Time(1192,1192) -> 24 Time(1243,1243) -> 124 Time(1543,1543) -> 78 Time(1597,1597) -> 51 Time(1802,1802) -> 151 Time(2025,2025) -> 117 Time(2112,2112) -> 10 Time(2221,2221) -> 178 Time(2397,2397) -> 110 Time(2419,2419) -> 0 Time(2419,2419)
+Time of the route: 2419 seconds
+Cost of the route: $39967
+Distance of the route: 13259
+Delay of the route: 19
+Route for vehicle 37:
+238 Time(0,0) -> 86 Time(960,960) -> 50 Time(1091,1091) -> 186 Time(1550,1550) -> 150 Time(1583,1583) -> 0 Time(1583,1583)
+Time of the route: 1583 seconds
+Cost of the route: $18846
+Distance of the route: 6282
+Delay of the route: 0
+Route for vehicle 38:
+239 Time(0,0) -> 87 Time(600,716) -> 187 Time(652,768) -> 33 Time(780,780) -> 133 Time(944,944) -> 38 Time(1017,1017) -> 69 Time(1125,1125) -> 169 Time(1375,1375) -> 79 Time(1508,1508) -> 138 Time(1690,1690) -> 16 Time(1777,1777) -> 179 Time(2124,2124) -> 116 Time(2424,2424) -> 0 Time(2424,2424)
+Time of the route: 2424 seconds
+Cost of the route: $43005
+Distance of the route: 14255
+Delay of the route: 24
+Route for vehicle 39:
+240 Time(0,0) -> 0 Time(0,0)
+Time of the route: 0 seconds
+Cost of the route: $0
+Distance of the route: 0
+Delay of the route: 0
+Maximum of the route costs: $54453
+Total route cost: $690058
+Total route time: 78388 seconds
+Total route distance: 1168756 meters
+Total route delay: 3204 seconds
