@@ -8,7 +8,11 @@ from solution_reader import get_output_txt
 from solver import get_solution
 
 
-def main(data_class: Data, outfile_file_path: str = "output.txt"):
+def main(
+    data_class: Data,
+    one_driver_one_order_bool: bool = True,
+    outfile_file_path: str = "output.txt",
+):
     manager, routing = get_manager_and_routing_model(data_class)
 
     print("Routing model created successfully!")
@@ -108,6 +112,28 @@ def main(data_class: Data, outfile_file_path: str = "output.txt"):
     )
     print("Capacity constraints applied successfully!")
 
+    # Add single driver single order constraint.
+    if one_driver_one_order_bool:
+
+        def order_count_callback(from_index):
+            """Returns the demand of the node."""
+            # Convert from routing variable Index to demands NodeIndex.
+            from_node = manager.IndexToNode(from_index)
+            return data_class.order_counts[from_node]
+
+        order_count_callback_index = routing.RegisterUnaryTransitCallback(
+            order_count_callback
+        )
+
+        routing.AddDimension(
+            order_count_callback_index,
+            0,  # null order count slack
+            1,  # vehicle maximum order count is 1
+            True,  # start cumul to zero
+            "OrderCount",
+        )
+        print("Single Driver Single Order constraints applied successfully!")
+
     bike_travel_time_callback = partial(
         travel_time_callback, speed_in_mps=data_class.speed_mps_dict["BIKE"]
     )
@@ -174,7 +200,7 @@ def main(data_class: Data, outfile_file_path: str = "output.txt"):
     start_time = time.time()
     solution = get_solution(routing)
     time_taken = time.time() - start_time
-    print(f"Solution found in {time_taken} seconds !!")
+    print(f"Solution found in {int(time_taken)} seconds !!")
 
     output_txt = get_output_txt(manager, routing, solution, data_class)
 

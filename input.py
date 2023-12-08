@@ -22,3 +22,5 @@ class Input:
             raise Exception("NAN values found in driver data!!")
 
         print("Input data sanity check done successfully.")
+
+        # TODO: Column assertions

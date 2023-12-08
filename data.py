@@ -26,6 +26,7 @@ class Data:
         self.get_vehicle_start_indices()
         self.get_vehicle_end_indices()
         self.get_demands()
+        self.get_order_counts()
         self.get_pickup_delivery_pairs()
         self.get_vehicle_capacities()
         self.get_time_windows()
@@ -101,6 +102,14 @@ class Data:
         ]
 
         self.demands = dummy_pickups_drop_demands + veh_start_node_demands
+
+    def get_order_counts(self):
+        self.order_counts = (
+            [0]
+            + [1] * len(self.order_df)
+            + [-1] * len(self.order_df)
+            + [0] * self.num_vehicles
+        )
 
     def get_vehicle_capacities(self):
         self.vehicle_capacities = self.driver_df["capacity"].values.tolist()

@@ -1,0 +1,288 @@
+Objective Cost: $819404
+########################################################################### 
+======================================================================== 
+Route for driver 0:
+Driver_0_Start Time(0,0) -> order_id_71_pickup Time(480,480) -> order_id_71_drop Time(1194,1194) -> order_id_28_pickup Time(1332,1332) -> order_id_28_drop Time(2338,2338) -> order_id_78_pickup Time(2487,2487) -> order_id_78_drop Time(3419,3419) -> Route_END Time(3419,3419)
+Time of the route: 3419 seconds
+Cost of the route: $14409
+Distance of the route: 13303 meters 
+Delay of the route: 1106 seconds
+======================================================================== 
+Route for driver 1:
+Driver_1_Start Time(0,0) -> order_id_13_pickup Time(360,360) -> order_id_13_drop Time(1580,1580) -> order_id_77_pickup Time(1749,1749) -> order_id_77_drop Time(2867,2867) -> Route_END Time(2867,2867)
+Time of the route: 2867 seconds
+Cost of the route: $11147
+Distance of the route: 10680 meters 
+Delay of the route: 467 seconds
+======================================================================== 
+Route for driver 2:
+Driver_2_Start Time(0,0) -> order_id_66_pickup Time(420,420) -> order_id_66_drop Time(1380,1380) -> order_id_53_pickup Time(1736,1736) -> order_id_53_drop Time(2636,2636) -> Route_END Time(2636,2636)
+Time of the route: 2636 seconds
+Cost of the route: $10441
+Distance of the route: 10205 meters 
+Delay of the route: 236 seconds
+======================================================================== 
+Route for driver 3:
+Driver_3_Start Time(0,0) -> order_id_62_pickup Time(540,985) -> order_id_62_drop Time(627,1072) -> order_id_24_pickup Time(1200,1200) -> order_id_24_drop Time(1620,1620) -> order_id_95_pickup Time(1744,1744) -> order_id_95_drop Time(2494,2494) -> order_id_92_pickup Time(2664,2664) -> order_id_92_drop Time(4286,4286) -> Route_END Time(4286,4286)
+Time of the route: 4286 seconds
+Cost of the route: $16772
+Distance of the route: 14528 meters 
+Delay of the route: 2244 seconds
+======================================================================== 
+Route for driver 4:
+Driver_4_Start Time(0,0) -> order_id_73_pickup Time(480,480) -> order_id_73_drop Time(1149,1149) -> order_id_19_pickup Time(1217,1217) -> order_id_19_drop Time(2043,2043) -> order_id_90_pickup Time(2142,2142) -> order_id_90_drop Time(3068,3068) -> Route_END Time(3068,3068)
+Time of the route: 3068 seconds
+Cost of the route: $13140
+Distance of the route: 12472 meters 
+Delay of the route: 668 seconds
+======================================================================== 
+Route for driver 5:
+Driver_5_Start Time(0,0) -> order_id_30_pickup Time(420,420) -> order_id_30_drop Time(1263,1263) -> order_id_21_pickup Time(1339,1339) -> order_id_21_drop Time(2443,2443) -> order_id_99_pickup Time(2671,2671) -> order_id_99_drop Time(3540,3540) -> Route_END Time(3540,3540)
+Time of the route: 3540 seconds
+Cost of the route: $15074
+Distance of the route: 13620 meters 
+Delay of the route: 1454 seconds
+======================================================================== 
+Route for driver 6:
+Driver_6_Start Time(0,0) -> order_id_39_pickup Time(360,360) -> order_id_39_drop Time(772,772) -> order_id_65_pickup Time(991,991) -> order_id_65_drop Time(2317,2317) -> order_id_93_pickup Time(2392,2392) -> order_id_93_drop Time(3549,3549) -> Route_END Time(3549,3549)
+Time of the route: 3549 seconds
+Cost of the route: $15071
+Distance of the route: 13922 meters 
+Delay of the route: 1149 seconds
+======================================================================== 
+Route for driver 7:
+Driver_7_Start Time(0,0) -> order_id_50_pickup Time(780,780) -> order_id_50_drop Time(1226,1226) -> order_id_46_pickup Time(1460,1460) -> order_id_46_drop Time(2726,2726) -> order_id_16_pickup Time(2828,2828) -> order_id_16_drop Time(3907,3907) -> Route_END Time(3907,3907)
+Time of the route: 3907 seconds
+Cost of the route: $15749
+Distance of the route: 13488 meters 
+Delay of the route: 2261 seconds
+======================================================================== 
+Route for driver 8:
+Driver_8_Start Time(0,0) -> order_id_80_pickup Time(780,780) -> order_id_80_drop Time(2112,2112) -> order_id_22_pickup Time(2354,2354) -> order_id_22_drop Time(3563,3563) -> Route_END Time(3563,3563)
+Time of the route: 3563 seconds
+Cost of the route: $13991
+Distance of the route: 12828 meters 
+Delay of the route: 1163 seconds
+======================================================================== 
+Route for driver 9:
+Driver_9_Start Time(0,0) -> order_id_58_pickup Time(1200,1200) -> order_id_58_drop Time(2423,2423) -> order_id_0_pickup Time(2731,2731) -> order_id_0_drop Time(3211,3211) -> Route_END Time(3211,3211)
+Time of the route: 3211 seconds
+Cost of the route: $10258
+Distance of the route: 9093 meters 
+Delay of the route: 1165 seconds
+======================================================================== 
+Route for driver 10:
+Driver_10_Start Time(0,0) -> order_id_20_pickup Time(420,420) -> order_id_20_drop Time(867,867) -> order_id_5_pickup Time(923,923) -> order_id_5_drop Time(1740,1740) -> order_id_43_pickup Time(1879,1879) -> order_id_43_drop Time(2304,2304) -> Route_END Time(2304,2304)
+Time of the route: 2304 seconds
+Cost of the route: $9153
+Distance of the route: 9153 meters 
+Delay of the route: 0 seconds
+======================================================================== 
+Route for driver 11:
+Driver_11_Start Time(0,0) -> order_id_81_pickup Time(780,780) -> order_id_81_drop Time(1724,1724) -> order_id_88_pickup Time(1747,1747) -> order_id_88_drop Time(3059,3059) -> order_id_6_pickup Time(3145,3145) -> order_id_6_drop Time(4572,4572) -> Route_END Time(4572,4572)
+Time of the route: 4572 seconds
+Cost of the route: $19988
+Distance of the route: 16412 meters 
+Delay of the route: 3576 seconds
+======================================================================== 
+Route for driver 12:
+Driver_12_Start Time(0,0) -> order_id_54_pickup Time(540,540) -> order_id_54_drop Time(1428,1428) -> order_id_38_pickup Time(1798,1798) -> order_id_38_drop Time(2512,2512) -> order_id_42_pickup Time(2553,2553) -> order_id_42_drop Time(3577,3577) -> Route_END Time(3577,3577)
+Time of the route: 3577 seconds
+Cost of the route: $15664
+Distance of the route: 14222 meters 
+Delay of the route: 1442 seconds
+======================================================================== 
+Route for driver 13:
+Driver_13_Start Time(0,0) -> order_id_35_pickup Time(1020,1020) -> order_id_35_drop Time(2246,2246) -> Route_END Time(2246,2246)
+Time of the route: 2246 seconds
+Cost of the route: $5796
+Distance of the route: 5796 meters 
+Delay of the route: 0 seconds
+======================================================================== 
+Route for driver 14:
+Driver_14_Start Time(0,0) -> order_id_79_pickup Time(720,720) -> order_id_79_drop Time(1916,1916) -> order_id_41_pickup Time(2062,2062) -> order_id_41_drop Time(2285,2285) -> order_id_63_pickup Time(2430,2430) -> order_id_63_drop Time(4026,4026) -> Route_END Time(4026,4026)
+Time of the route: 4026 seconds
+Cost of the route: $16212
+Distance of the route: 14556 meters 
+Delay of the route: 1656 seconds
+======================================================================== 
+Route for driver 15:
+Driver_15_Start Time(0,0) -> order_id_34_pickup Time(406,406) -> order_id_34_drop Time(1839,1839) -> order_id_9_pickup Time(2006,2006) -> order_id_9_drop Time(2375,2375) -> order_id_31_pickup Time(2408,2408) -> order_id_31_drop Time(3988,3988) -> Route_END Time(3988,3988)
+Time of the route: 3988 seconds
+Cost of the route: $18210
+Distance of the route: 16614 meters 
+Delay of the route: 1596 seconds
+======================================================================== 
+Route for driver 16:
+Driver_16_Start Time(0,0) -> order_id_45_pickup Time(360,360) -> order_id_45_drop Time(871,871) -> order_id_74_pickup Time(1143,1143) -> order_id_74_drop Time(2155,2155) -> order_id_56_pickup Time(2256,2256) -> order_id_56_drop Time(3468,3468) -> Route_END Time(3468,3468)
+Time of the route: 3468 seconds
+Cost of the route: $15128
+Distance of the route: 14060 meters 
+Delay of the route: 1068 seconds
+======================================================================== 
+Route for driver 17:
+Driver_17_Start Time(0,0) -> order_id_72_pickup Time(420,420) -> order_id_72_drop Time(1228,1228) -> order_id_67_pickup Time(1422,1422) -> order_id_67_drop Time(3168,3168) -> Route_END Time(3168,3168)
+Time of the route: 3168 seconds
+Cost of the route: $13672
+Distance of the route: 12904 meters 
+Delay of the route: 768 seconds
+======================================================================== 
+Route for driver 18:
+Driver_18_Start Time(0,0) -> order_id_60_pickup Time(600,600) -> order_id_60_drop Time(1409,1409) -> order_id_27_pickup Time(1605,1605) -> order_id_27_drop Time(2291,2291) -> order_id_14_pickup Time(2642,2642) -> order_id_14_drop Time(4043,4043) -> Route_END Time(4043,4043)
+Time of the route: 4043 seconds
+Cost of the route: $17259
+Distance of the route: 15374 meters 
+Delay of the route: 1885 seconds
+======================================================================== 
+Route for driver 19:
+Driver_19_Start Time(0,0) -> order_id_89_pickup Time(540,540) -> order_id_89_drop Time(1511,1511) -> order_id_36_pickup Time(1978,1978) -> order_id_36_drop Time(2322,2322) -> order_id_26_pickup Time(2647,2647) -> order_id_26_drop Time(3485,3485) -> Route_END Time(3485,3485)
+Time of the route: 3485 seconds
+Cost of the route: $13949
+Distance of the route: 12617 meters 
+Delay of the route: 1332 seconds
+======================================================================== 
+Route for driver 20:
+Driver_20_Start Time(0,0) -> order_id_61_pickup Time(660,660) -> order_id_61_drop Time(978,978) -> Route_END Time(978,978)
+Time of the route: 978 seconds
+Cost of the route: $11349
+Distance of the route: 3783 meters 
+Delay of the route: 0 seconds
+======================================================================== 
+Route for driver 21:
+Driver_21_Start Time(0,0) -> order_id_76_pickup Time(540,540) -> order_id_76_drop Time(948,948) -> Route_END Time(948,948)
+Time of the route: 948 seconds
+Cost of the route: $10878
+Distance of the route: 3626 meters 
+Delay of the route: 0 seconds
+======================================================================== 
+Route for driver 22:
+Driver_22_Start Time(0,0) -> order_id_51_pickup Time(780,780) -> order_id_51_drop Time(1517,1517) -> order_id_69_pickup Time(1558,1558) -> order_id_69_drop Time(1904,1904) -> order_id_11_pickup Time(1982,1982) -> order_id_11_drop Time(2185,2185) -> Route_END Time(2185,2185)
+Time of the route: 2185 seconds
+Cost of the route: $36078
+Distance of the route: 12026 meters 
+Delay of the route: 0 seconds
+======================================================================== 
+Route for driver 23:
+Driver_23_Start Time(0,0) -> Route_END Time(0,0)
+Time of the route: 0 seconds
+Cost of the route: $0
+Distance of the route: 0 meters 
+Delay of the route: 0 seconds
+======================================================================== 
+Route for driver 24:
+Driver_24_Start Time(0,0) -> Route_END Time(0,0)
+Time of the route: 0 seconds
+Cost of the route: $0
+Distance of the route: 0 meters 
+Delay of the route: 0 seconds
+======================================================================== 
+Route for driver 25:
+Driver_25_Start Time(0,0) -> order_id_82_pickup Time(720,720) -> order_id_82_drop Time(1017,1017) -> Route_END Time(1017,1017)
+Time of the route: 1017 seconds
+Cost of the route: $8151
+Distance of the route: 2717 meters 
+Delay of the route: 0 seconds
+======================================================================== 
+Route for driver 26:
+Driver_26_Start Time(0,0) -> order_id_4_pickup Time(360,360) -> order_id_4_drop Time(461,461) -> order_id_59_pickup Time(505,505) -> order_id_59_drop Time(905,905) -> order_id_2_pickup Time(1015,1015) -> order_id_2_drop Time(1757,1757) -> order_id_1_pickup Time(1766,1766) -> order_id_1_drop Time(1961,1961) -> order_id_44_pickup Time(1989,1989) -> order_id_44_drop Time(2476,2476) -> order_id_68_pickup Time(2562,2562) -> order_id_68_drop Time(2812,2812) -> Route_END Time(2812,2812)
+Time of the route: 2812 seconds
+Cost of the route: $64466
+Distance of the route: 21272 meters 
+Delay of the route: 650 seconds
+======================================================================== 
+Route for driver 27:
+Driver_27_Start Time(0,0) -> order_id_8_pickup Time(480,480) -> order_id_8_drop Time(721,721) -> order_id_49_pickup Time(845,845) -> order_id_49_drop Time(1319,1319) -> Route_END Time(1319,1319)
+Time of the route: 1319 seconds
+Cost of the route: $21717
+Distance of the route: 7239 meters 
+Delay of the route: 0 seconds
+======================================================================== 
+Route for driver 28:
+Driver_28_Start Time(0,0) -> order_id_83_pickup Time(780,780) -> order_id_83_drop Time(1291,1291) -> order_id_48_pickup Time(1408,1408) -> order_id_48_drop Time(1775,1775) -> Route_END Time(1775,1775)
+Time of the route: 1775 seconds
+Cost of the route: $27348
+Distance of the route: 9116 meters 
+Delay of the route: 0 seconds
+======================================================================== 
+Route for driver 29:
+Driver_29_Start Time(0,0) -> Route_END Time(0,0)
+Time of the route: 0 seconds
+Cost of the route: $0
+Distance of the route: 0 meters 
+Delay of the route: 0 seconds
+======================================================================== 
+Route for driver 30:
+Driver_30_Start Time(0,0) -> order_id_52_pickup Time(840,840) -> order_id_52_drop Time(900,900) -> order_id_29_pickup Time(968,968) -> order_id_29_drop Time(1348,1348) -> order_id_15_pickup Time(1513,1513) -> order_id_15_drop Time(2153,2153) -> Route_END Time(2153,2153)
+Time of the route: 2153 seconds
+Cost of the route: $34344
+Distance of the route: 11448 meters 
+Delay of the route: 0 seconds
+======================================================================== 
+Route for driver 31:
+Driver_31_Start Time(0,0) -> order_id_91_pickup Time(1140,1140) -> order_id_91_drop Time(1209,1209) -> order_id_12_pickup Time(1288,1288) -> order_id_12_drop Time(1858,1858) -> order_id_7_pickup Time(1972,1972) -> order_id_7_drop Time(2021,2021) -> order_id_17_pickup Time(2058,2058) -> order_id_17_drop Time(2800,2800) -> Route_END Time(2800,2800)
+Time of the route: 2800 seconds
+Cost of the route: $43867
+Distance of the route: 14489 meters 
+Delay of the route: 400 seconds
+======================================================================== 
+Route for driver 32:
+Driver_32_Start Time(0,0) -> order_id_84_pickup Time(600,807) -> order_id_84_drop Time(661,868) -> order_id_10_pickup Time(900,900) -> order_id_10_drop Time(1356,1356) -> order_id_47_pickup Time(1466,1466) -> order_id_47_drop Time(2348,2348) -> Route_END Time(2348,2348)
+Time of the route: 2348 seconds
+Cost of the route: $39462
+Distance of the route: 13154 meters 
+Delay of the route: 0 seconds
+======================================================================== 
+Route for driver 33:
+Driver_33_Start Time(0,0) -> order_id_40_pickup Time(540,540) -> order_id_40_drop Time(974,974) -> Route_END Time(974,974)
+Time of the route: 974 seconds
+Cost of the route: $11286
+Distance of the route: 3762 meters 
+Delay of the route: 0 seconds
+======================================================================== 
+Route for driver 34:
+Driver_34_Start Time(0,0) -> order_id_98_pickup Time(480,480) -> order_id_98_drop Time(758,758) -> order_id_33_pickup Time(846,846) -> order_id_33_drop Time(1370,1370) -> order_id_87_pickup Time(1515,1515) -> order_id_87_drop Time(2319,2319) -> order_id_57_pickup Time(2404,2404) -> order_id_57_drop Time(3105,3105) -> Route_END Time(3105,3105)
+Time of the route: 3105 seconds
+Cost of the route: $67690
+Distance of the route: 22327 meters 
+Delay of the route: 709 seconds
+======================================================================== 
+Route for driver 35:
+Driver_35_Start Time(0,0) -> order_id_70_pickup Time(720,720) -> order_id_70_drop Time(1339,1339) -> order_id_64_pickup Time(1450,1450) -> order_id_64_drop Time(1703,1703) -> order_id_18_pickup Time(1751,1751) -> order_id_18_drop Time(2034,2034) -> order_id_3_pickup Time(2113,2113) -> order_id_3_drop Time(2433,2433) -> Route_END Time(2433,2433)
+Time of the route: 2433 seconds
+Cost of the route: $44205
+Distance of the route: 14724 meters 
+Delay of the route: 33 seconds
+======================================================================== 
+Route for driver 36:
+Driver_36_Start Time(0,0) -> order_id_96_pickup Time(780,780) -> order_id_96_drop Time(805,805) -> order_id_55_pickup Time(845,845) -> order_id_55_drop Time(1122,1122) -> order_id_23_pickup Time(1173,1173) -> order_id_23_drop Time(1473,1473) -> Route_END Time(1473,1473)
+Time of the route: 1473 seconds
+Cost of the route: $17505
+Distance of the route: 5835 meters 
+Delay of the route: 0 seconds
+======================================================================== 
+Route for driver 37:
+Driver_37_Start Time(0,0) -> order_id_85_pickup Time(960,960) -> order_id_85_drop Time(1472,1472) -> order_id_94_pickup Time(1529,1529) -> order_id_94_drop Time(2267,2267) -> order_id_25_pickup Time(2307,2307) -> order_id_25_drop Time(3057,3057) -> Route_END Time(3057,3057)
+Time of the route: 3057 seconds
+Cost of the route: $56370
+Distance of the route: 18571 meters 
+Delay of the route: 657 seconds
+======================================================================== 
+Route for driver 38:
+Driver_38_Start Time(0,0) -> order_id_86_pickup Time(600,716) -> order_id_86_drop Time(652,768) -> order_id_32_pickup Time(780,780) -> order_id_32_drop Time(944,944) -> order_id_37_pickup Time(1017,1017) -> order_id_37_drop Time(1359,1359) -> order_id_97_pickup Time(1453,1453) -> order_id_97_drop Time(1884,1884) -> order_id_75_pickup Time(1933,1933) -> order_id_75_drop Time(2454,2454) -> Route_END Time(2454,2454)
+Time of the route: 2454 seconds
+Cost of the route: $43605
+Distance of the route: 14517 meters 
+Delay of the route: 54 seconds
+======================================================================== 
+Route for driver 39:
+Driver_39_Start Time(0,0) -> Route_END Time(0,0)
+Time of the route: 0 seconds
+Cost of the route: $0
+Distance of the route: 0 meters 
+Delay of the route: 0 seconds
+###########################################################################
+Maximum of the route costs: $67690
+Total route cost: $819404
+Total route time: 100754 seconds
+Total route distance: 434453 meters
+Total route delay: 27739 seconds
